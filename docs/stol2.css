@@ -111,7 +111,7 @@ Road
 position: relative;
 top: 300px;
 background-color: grey;
-width: 1800px;
+width: calc(100vw);
 height: 500px;
 }
 
